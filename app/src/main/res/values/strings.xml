@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">P5-LauncherApp</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
 </resources>
